@@ -108,3 +108,38 @@ left: 0;
      margin-top: 20px;
     }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+
+@media (max-width: 375px) {
+    .accordion{
+        margin-top: 60px;
+        width: 95%;
+        padding: 25px;
+    }
+
+    body{
+        height: 100vh;
+    }
+
+
+   body::before{
+    height: 32vh;
+   }
+
+   .accordion .content-container.active .answer{
+    height: 130px;
+}
+
+    
+}
+
+@media (max-width: 500px) {
+    .accordion{
+        margin-top: 60px;
+        margin-bottom: 30px;
+        width: 90%;
+        padding: 28px;
+        
+    }
+    
+}
