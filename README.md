@@ -8,7 +8,6 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -33,12 +32,13 @@ Users should be able to:
 
 
 ![Frontend Mentor - FAQ accordion](./screenshot.jpg)
+![Frontend Mentor - FAQ accordion mobileview](./screenshot.jpg)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Visit the Live Site](https://debbie-dot5.github.io/FAQ-accordion/)
 
 
 
@@ -116,7 +116,7 @@ for(i = 0; i < accordion.length; i++){
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [UmohDebbie](https://github.com/Debbie-dot5/FAQ-accordion)
 - Frontend Mentor - [@Debbie-dot5](https://www.frontendmentor.io/profile/Debbie-dot5)
 - Twitter - [@Debbie35d](https://twitter.com/Debbie35d)
 
